@@ -1,0 +1,2 @@
+# ros_gazebo_filter
+订阅gazebo中传感器数据并作滤波处理，同时实现控制gazebo中模型位置、姿态等的动作
